@@ -1,4 +1,3 @@
-local PlayerData = {}
 ESX = nil
 
 Citizen.CreateThread(function()
